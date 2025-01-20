@@ -1,4 +1,4 @@
-name: Cl
+name: Cli
 
 on: [push, workflow_dispatch]
 
